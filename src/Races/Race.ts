@@ -11,7 +11,7 @@ abstract class Race {
     throw new Error('Not implemented');
   }
 
-  get name(): string {
+  public get name(): string {
     return this._name;
   }
 
