@@ -1,4 +1,4 @@
 export interface IRace {
-    name: string
-    dexterity: number
+  name: string
+  dexterity: number
 }
